@@ -1,0 +1,17 @@
+
+
+CCD Camera Options:
+
+A: FTDI + ESP32 cam Module
+
+https://www.az-delivery.de/products/esp32-cam-modul-esp32-wifi-bluetooth-modul-inklusive-kamera#description
+https://www.reichelt.de/teensy-4-0-usb-ohne-header-teensy-4-0-p269006.html?&trstct=pos_6&nbc=1
+
+
+B: Raspy + Raspy Cam module
+(cant find stock online other than overpriced amazon links)
+https://www.reichelt.de/raspberry-pi-zero-kamera-fuer-raspberry-pi-zero-5mp-120-ov5-rpiz-cam-5mp-120-p242758.html?&trstct=pos_3&nbc=1
+
+
+
+C: Whatever the lab can provide lol

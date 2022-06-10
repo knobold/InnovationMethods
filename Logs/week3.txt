@@ -1,0 +1,55 @@
+Build a beam homogenization using (partially) coherent light sources (Group 6)
+
+Week 3 
+
+Research, printing and designing CAD file took ~4.5h
+
+To Dos (From last week):
+- Familiarize with 3D printers and work out the possibilities
+	- thickness  (still more to test)
+      - linewidth (still more to test)
+	- material and their spectral transimissivity (PLA Check)
+- Make CADs of experimental gratings (check) (ipt file attached)
+
+Experimental grating print results (0.2mm step width in cura):
+	Dimensions:
+	-1mm dia circles printable
+	-0.5mm dia circles not printable
+	-0.5mm wide gratings are printable 
+	-0.25mm gratings are not printable
+	-0.25mm high structures are printable
+	Structure:
+	-circles can be adjacent and defined
+	-gratings with 0.5mm steps are probably better option
+
+
+transmission values (theoreticaly):
+
+***
+https://opg.optica.org/ao/abstract.cfm?uri=ao-60-22-6573#articleFigures
+***
+
+	- white ABS 1mm: 25-35% (for 600-1200nm)
+	- white PLA 1mm: 35-50% (for 600-1200nm)
+	- white PLA 2mm: 25-35% (for 600-1200nm)
+
+maybe real options other than printing a grating with SLA
+
+
+To Do (next week):
+	-meeting with mentor on friday
+		-disuss his ideas for grating
+		-get a look at optical setup and required size of grating
+	-design a first real prototype grating and print with pla crystal clear
+
+
+
+
+
+	
+
+	
+
+
+
+

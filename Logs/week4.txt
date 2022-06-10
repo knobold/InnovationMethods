@@ -1,0 +1,26 @@
+Build a beam homogenization using (partially) coherent light sources (Group 6)
+
+Week 3 
+To Do (next week):
+	-meeting with mentor on friday   (check)
+		-disuss his ideas for grating
+		-get a look at optical setup and required size of grating
+	-design a first real prototype grating and print with pla crystal clear (designed not printed)
+
+
+First Meeting and Bestandaufnahme in the lab (2h)
+
+
+Results:
+	- Kaveri is putting a list together 
+	- Tim is designing new gratings
+	- Slobodan is making Gannt chart
+
+CAD Learning (1h)
+Relearning how to use Inventor and get things done more quickly
+
+Mountable Grating (1.5h)
+Designed first grating with 1x1mm square design aswell as a basic mountable 1mm thick plate. 
+
+
+Yet to be printed 

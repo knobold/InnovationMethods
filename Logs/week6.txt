@@ -1,0 +1,30 @@
+Week 6
+
+Beam Homogenization (group 6)
+
+Last Weeks to dos:
+- design a grating for the laser cutter aswell as an engraved noise pattern (overlap with kaveri)
+- Do a SLA print (0.1mm grid at highest accuracy would be cool) 
+
+
+
+SLA print: (2h)
+- somehow only printed half of the gratings
+- unable to find sufficient quantities of alcohol to wash the print
+
+
+Laser cutter (1h)
+- Did a couple of engravings on acrylic 3mm and 2mm
+- Couldnt get the laser cutter to traverse the outcutting path (even though linewidth was below 0.05mm)
+
+
+Misc (1h)
+-Set up a Git (sync issues, link next week) 
+-Adjusted Slobodans experimental setup so that beam is collimated at MLA and well focused on camera sensor
+
+
+TO DO next week:
+-upload files to GIT
+-Do farfield measurements of gratings and MLA
+-Wash SLA print
+-Figure the laser cutting problem out

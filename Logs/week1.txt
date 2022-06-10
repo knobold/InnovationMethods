@@ -1,0 +1,61 @@
+Build a beam homogenization using (partially) coherent light sources (Group 6)
+
+Week 1
+
+- Definition of challenge and first interaction with mentor (1.5h)
+	Main design goal: A forward scattering device that homogenizes beams of multiple laser diodes.
+	Brainstormed solutions as part of workshop:
+		- rotating diffuser
+		- two Micro lenses (too costly)
+		- simple set of apertures
+		- submersion/use of dispersive liquid/gas
+		
+
+- Research (2h)
+
+	- Micro Lens Arrays (MLA)
+	****
+	https://www.rp-photonics.com/microlens_arrays.html
+	https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2861
+	https://www.sumita-opt.co.jp/en/products/cylindrical-array.html
+	*****
+	
+	- optimal shape of array very dependent on arrangement of diodes
+	- Diffusers (Homogenizers)
+	
+	****
+	https://www.rp-photonics.com/diffusers.html
+	****
+		- material 3D printable(decent transmission)
+			- iridescent Ice
+			- clear PETG (https://hackaday.io/project/34274-atltvhead/log/159126-led-diffusion-log)
+			
+		- maybe 3D print different grating structures
+		- rotation?
+		
+			
+		- Rosco 216 Diffusion sheet (https://shop.avantgarde-technik.de/filter-u-farbfolien/farbfilterbogen/171/rosco-e-colour-216-white-diffusion-bogen/sheet)
+			!only viable for powers up to 2kW and T<200°C!
+	- Reflective coating as a wave guide to reduce losses?	
+
+- Compilation of questions for mentor to be forwarded next week (Group Task)(0.5)
+	- What are the transmission goals
+	- Characteristics of our MLA
+		- Fill factor
+		- Aberations
+		- focal length
+	- Is a wave guide desirable?
+
+***To be compiled on thursday***	
+	
+
+Main Goals
+	- Efficiency (high transmission)
+	- cost effectivness
+	
+	
+Todo (Main Tasks next week)
+	- gather all the knowledge from individual research
+	- send questions to tutor until Monday
+	
+	

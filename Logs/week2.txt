@@ -1,0 +1,44 @@
+Build a beam homogenization using (partially) coherent light sources (Group 6)
+
+Week 1
+
+(Main Tasks last week) check
+	- gather all the knowledge from individual research
+	- send questions to tutor until Monday
+
+
+
+
+- Communication & setting up first lab date on May 13th 16:00 (0.5h)
+
+- Meeting with Slobodan to discuss further progression (1h)
+	- Hes investigating the acceptance angle im doing more research on beam homo
+
+New: 
+Light source is going to be fully coherent so we dont need to design a Laserdiode array
+
+- Research on beam homogenization of a coherent light source(1h)
+	- a 4F setup should do the trick just as in FOMO theory
+	- Industry materials for DOE: Fused Silica, ZnSe, Plastic
+
+
+*** Links ***
+https://www.holoor.co.il/application/homogenizer-diffuser/
+https://www.researchgate.net/publication/236136368_Matrix_description_of_near-field_diffraction_and_the_fractional_Fourier_transform/figures
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7062/70620R/Randomly-varying-micro-optical-elements-for-the-generation-of-uniform/10.1117/12.795926.short
+*** Links ***
+
+- Installed Inventor Professional in order to be ready to design gratings (1h)
+
+
+
+
+
+
+
+To Do (Next week):
+- Familiarize with 3D printers and work out the possibilities
+	- thickness 
+      - linewidth
+	- material and their spectral transimissivity
+- Make CADs of experimental gratings

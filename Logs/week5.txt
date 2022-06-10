@@ -1,0 +1,25 @@
+Week 5
+
+Beam Homogenization Group 6
+
+
+Printed the first usable grating (3h)
+- 7 iterations till the print finally worked (see attached picture)
+- had to adjust printing speed and z-hop in order to print the rectangular grid
+
+
+Designed and tried to print 2 additional gratings (2h)
+- couldnt print yet since printers were occupied (gcode file is ready)
+
+
+First Look at SLA printing (0.5h)
+- materials (standard white resin and clear resin are of interest) 
+- dimensions (0.025mm possible?) 
+- downloaded and got familiar with PreForm
+
+Designed Test grid for SLA Printer (0.5h)
+
+
+To Do next week:
+- design a grating for the laser cutter aswell as an engraved noise pattern (overlap with kaveri)
+- Do a SLA print (0.1mm grid at highest accuracy would be cool) 
