@@ -1,0 +1,24 @@
+WEEK 7
+
+
+BEAM HOMOGENIZATION GROUP 6
+
+
+Last weeks to dos:
+
+Wash and cure print (check)
+FIgure out laser cutting issues (check)
+
+
+Laser cutter: ( 0.5h)
+- Issue was the print directly from svg/inkscape. Fixed by printing from pdf.
+
+SLA prints (1h)
+- Washing and curing with Johannes
+- Software issues when trying to do another print. Solved by reboot of PC. 
+
+
+Git (1h)
+Commited all my files and invited Slobo and Kaveri
+
+https://github.com/knobold/InnovationMethods

@@ -1,0 +1,39 @@
+WEEK 8 
+
+Beam Homogenization (Group 6)
+
+
+
+SLA (1h)
+tried to print 2 more MLAs with various different settings but Resin would stick to the platform..
+For my second try nothing got printed at all even tho everything seemed to work. #
+
+
+Laser cutter (1h)
+
+Since my laser cut gratings all were a little warped I only engraved a grating and then cut it out. 
+Decent results
+
+
+GIT (0.5h)
+
+
+Python (3h)
+Wrote a pyhton script to analyze the intensity distribuation.
+Added a plot for angle dependence
+
+
+
+Lab (2h)
+
+Took 40 images of different configurations
+Still need to evaluate them with the python script
+
+
+
+TO DO next week:
+Design a Pinhole or a rectangular aperture to be mounted before sensor so we can evaluate that area only and ignore the noise the gratings produce
+
+
+
+
