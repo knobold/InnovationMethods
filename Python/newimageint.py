@@ -6,7 +6,7 @@ from skimage.measure import profile_line
 from skimage import io
 import math
 
-image=r"C:\Users\Tim Stechel\OneDrive\Dokumente\Photonics\InnovationMethods\Images\16.06\2MLA(0°).bmp"
+image=r"C:\Users\Tim Stechel\OneDrive\Dokumente\Photonics\InnovationMethods\Images\16.06\MLA.bmp"
 l=55 #distance Lens-sensor in mm
 width=800  #image parameters
 height=600
