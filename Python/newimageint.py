@@ -62,9 +62,9 @@ normalized_p_array=np.array(normalized_p)
 
 
 ###curvefit of angular dependence
-def func(x, a, b):
+def func(x, b):
 
-    return -a*x**2+b
+    return 0.00001*x+b
 popt, pcov = curve_fit(func, angle_dep_array, normalized_p_array)
 
 
@@ -94,14 +94,14 @@ plt.legend()
 plt.subplot(122)
 plt.title('Angular Intensity Distribution')
 plt.plot(angle_dep,normalized_p)
-plt.plot(angle_dep,func(angle_dep_array, *popt), 'r-', label='fit: -%5.3f*x^2+%5.3f' % tuple(popt))
+plt.plot(angle_dep,func(angle_dep_array, *popt), 'r-', label='fit: -%5.3f*x^2+' % tuple(popt))
 plt.ylabel("Intensity normalized")
 plt.xlabel("Angle from center of image [°]")
 plt.legend()
 
 
 
-plt.savefig(r"C:\Users\Tim Stechel\OneDrive\Dokumente\Photonics\InnovationMethods\Images\\20.06\\"+filename+".png")
+#plt.savefig(r"C:\Users\Tim Stechel\OneDrive\Dokumente\Photonics\InnovationMethods\Images\\20.06\\"+filename+".png")
 plt.show()  
 
 

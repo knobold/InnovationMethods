@@ -1,0 +1,30 @@
+WEEK 9
+
+Beam Homogenization Group 6
+
+
+Improved Python script (1h)
+	Formating and saving of Plots
+	added rudimentary curve fit
+
+LAB (2h)
+	more measurements
+	fine tuning of setup and swap to a 150mm focusing lens
+
+Evaluation (0.5h)
+	evaluted measuremtents with the python script
+
+
+Designed apertures (1h)
+	incl. reasearch on the diffractive effects this will have (still doing it tho)
+	two apertures: 9mm and 12 mm square
+	mountable on the 30mm thorlabs grid
+
+
+
+
+To Do next week:
+
+Print the apertures
+Find a proper curve fit to evaluate the performance
+do measurements with the apertures
